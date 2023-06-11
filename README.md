@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 🌟: I really enjoy working in python, and coding logic on the backend.
 
 ## 🧰 Skills
-- Frontend: HTML, CSS, JavaScript, React, Bootstrap, Angular, Typescript
-- Backend: Python, Flask, MySQL, NodeJS, C#, SQL Server, Redis, .NET Core
-- Other: Git, Bash, C, SQLAlchemy, JQuery, Azure, RESTful API's, Linux, Windows
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Angular, Typescript
+- **Backend:** Python, Flask, MySQL, NodeJS, C#, SQL Server, Redis, .NET Core
+- **Other:** Git, Bash, C, SQLAlchemy, JQuery, Azure, RESTful API's, Linux, Windows
