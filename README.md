@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 👨‍💻 About Me
 
 - 💻: Full Stack Web Development Student at Holberton Tulsa
-- 👷‍♂️: Currently in my fourth trimester: graduation in December.
+- 👷‍♂️: Currently in my fourth trimester: graduation in April 2024.
 - 🏫: Bachelors degree in Physics
 - 🌟: I really enjoy working in python, and coding logic on the backend.
 
